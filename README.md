@@ -1,4 +1,4 @@
-# Tom Bombadil (my pseudonym)
+# Tom Bombadil (pseudonym)
 I am a self-taught developer from California. I started working with JavaScript, but I am currently looking into learning C and other low-level languages. 
 
 ### My Current Focus:
